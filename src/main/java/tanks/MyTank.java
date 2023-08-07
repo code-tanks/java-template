@@ -11,7 +11,7 @@ public class MyTank {
 
     static class Tank extends BaseTank {
         public Tank() {
-            System.out.println("Started MyTank..");
+            System.out.println("Started MyTank!!..");
 
         }
 
