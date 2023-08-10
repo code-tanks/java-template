@@ -24,7 +24,7 @@
 
           <groupId>com.github.code-tanks</groupId>
           <artifactId>java-api</artifactId>
-          <version>0.0.2</version>
+          <version>0.0.3</version>
           <exclusions>
             <exclusion>
               <groupId>tanks</groupId>
